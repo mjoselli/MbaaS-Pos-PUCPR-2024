@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetroFitApp</string>
+    <string name="press_button_bellow_to_show_a_new_fact_about_chuck_norris">Press Button bellow To show a New Fact About Chuck Norris</string>
+    <string name="get_new_chuck_norris_fact">Get New Chuck Norris Fact</string>
+</resources>
